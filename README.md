@@ -22,6 +22,7 @@
 - 创建项目所需文件，同时可以配置一些初始问题和默认答案
 - npm link 到全局
 - 实际使用时动态创建文件并将用户的回答写入实际项目中
+
 此项目源码地址为：https://github.com/minLiuWeb/generator-vue.git
 
 ##### 2、尝试使用 Gulp 完成 项目 的自动化构建
